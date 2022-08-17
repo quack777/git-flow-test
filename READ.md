@@ -1,5 +1,1 @@
-# Test
-
-## hi
-
-## hello
+# Next.js practice
